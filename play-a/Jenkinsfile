@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-
+//just for test
 def projectDir = '/var/jenkins_home/monorepo-experiments-master/play-a'
 
 pipeline {
